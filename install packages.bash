@@ -1,0 +1,5 @@
+npm create vite@latest frontend -- --template react
+
+cd frontend
+
+npm install axios react-router-dom
